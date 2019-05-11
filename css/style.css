@@ -21,3 +21,8 @@ html,body,.container{
     flex: 1 80%;
     background-color: coral;
 }
+.footer{
+    display: flex;
+    flex: 1 10%;
+    background-color: aqua;
+}
