@@ -16,3 +16,8 @@ html,body,.container{
     flex: 1 10%;
     background-color: aquamarine;
 }
+.section{
+    display: flex;
+    flex: 1 80%;
+    background-color: coral;
+}
