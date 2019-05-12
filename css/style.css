@@ -44,5 +44,14 @@ ul li a{
     background-color:  rgb(255, 127, 138);
     justify-content: center;
     text-align: center;
+}
 
+.home-container{
+    /* margin:0;
+    padding:0; */
+    border:2px solid red;
+}
+h1{
+    text-align: center;
+    color:white;
 }
