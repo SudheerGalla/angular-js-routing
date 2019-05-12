@@ -1,3 +1,3 @@
 app.controller("servicesCtrlTest", function ($scope) {
-    $scope.name = "contact page works here!";
+    $scope.name = "Services page works here!";
 });
